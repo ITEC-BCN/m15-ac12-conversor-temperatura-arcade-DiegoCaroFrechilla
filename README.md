@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/DiegoCaroFrechilla/m15-ac12-conversor-temperatura-arcade-DiegoCaroFrechilla/.github/makecode/blocks.png)
+![A rendered view of the blocks](.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
